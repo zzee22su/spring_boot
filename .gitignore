@@ -40,4 +40,3 @@ gradlew.bat
 gradlew
 settings.gradle
 gradle/
-src/main/resources/application.properties
